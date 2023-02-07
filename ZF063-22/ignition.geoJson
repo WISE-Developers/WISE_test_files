@@ -1,0 +1,10 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-113.016667, 62.2]
+  },
+  "properties": {
+    "name": "ZF063-22 Point"
+  }
+}
